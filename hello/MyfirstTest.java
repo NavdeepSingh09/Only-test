@@ -8,6 +8,8 @@ public class MyfirstTest {
 		int b=20;
 		int c=a+b;
 		System.out.println(c);
+		int d=20;
+		System.out.println(d);
 
 	}
 
